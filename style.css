@@ -107,7 +107,7 @@ li a:hover
     padding: 10px 20px;
     color: #C3073F ;
     font-family: 'Kurale', serif;
-    font-size: 20px;
+    font-size: 18px;
     border-radius: 5px;
     cursor: pointer;
     text-transform: uppercase;
@@ -115,7 +115,7 @@ li a:hover
 
 .nav-hire:hover
 {
-    background: #067e2c;
+    background: transparent;
     color: #fff;
     border: none;
 }
